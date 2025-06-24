@@ -1,0 +1,24 @@
+[
+    {
+      "title": "Basic Plan",
+      "description": "Access to all gym equipment and standard locker facilities.",
+      "price": "$10/month",
+      "image": "img/img3.jpg",
+      "color": "primary"
+    },
+    {
+      "title": "Intermediate Plan",
+      "description": "Everything in Basic + personal training and group classes.",
+      "price": "$20/month",
+      "image": "img/img2.jpg",
+      "color": "warning"
+    },
+    {
+      "title": "Professional Plan",
+      "description": "Includes nutrition guidance, advanced training, and VIP access.",
+      "price": "$30/month",
+      "image": "img/img9.jpg",
+      "color": "danger"
+    }
+  ]
+  
